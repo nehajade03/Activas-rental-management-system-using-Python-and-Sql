@@ -1,0 +1,2 @@
+# Activas-rental-management-system-using-Python-and-Sql
+A Python-based rental management system for Activa scooters, leveraging MySQL for database operations. The system allows customers to rent and return scooters, tracks availability in real-time, and provides owners with secure access to rental records. Designed with an Object-Oriented Programming (OOP) approach for scalability and maintainability.
